@@ -1,0 +1,17 @@
+#gal{
+   position: absolute;
+    
+   width:100vw;
+   height:50vh;
+  margin-right:90px;
+  top:380%;
+   float:left;
+   
+    
+    
+}
+#head{
+    position:relative;
+   padding-top:190%;
+   text-align: center;
+}

@@ -1,0 +1,172 @@
+.about{
+    display:grid;
+    grid-template-columns: auto auto auto ;
+    gap:2rem;
+    position:absolute;
+   
+    top:150%;
+    width:100%;
+   height:50%;   
+}
+#li{
+    
+    background-image: url('../assets/hs1.jpg');
+    background-size: cover;
+    height:250px;
+    width:400px;
+    
+}
+.li{
+    height:500px;
+    width:400px;
+    background-color:rgb(255, 255, 255);
+}
+
+.bi{
+    height:500px;
+    width:400px;
+    background-color:white;
+}
+.ci{
+    height:500px;
+    width:400px;
+    background-color:white;
+}
+#bi{
+    
+    background-image: url('../assets/bridal1.webp');
+    background-size: cover;
+    height:250px;
+    width:400px;
+}
+#ci{
+    
+    background-image: url('../assets/face\ care.webp');
+    background-size: cover;
+    height:250px;
+    width:400px;
+}
+#button1{
+    color:white;
+    height:70px;
+    width:250px;
+    padding:30px 30px 30px 30px;
+    background-color: rgb(3, 17, 75);
+position: absolute;
+top:500%;
+font-size:15px;
+transition: .4s;
+
+
+
+}
+#button1:hover{
+    background-color: antiquewhite;
+}
+button{
+    transition:.4s;
+}
+
+button:hover{
+    cursor: pointer;
+  
+}
+#btn{
+    position:absolute;
+    top:1200px;
+    padding-left: 58%;
+   margin-top:50%;
+   transition: .4s;
+}
+#btn:hover{
+   background-color: rgb(255, 255, 255);
+   border-color:1px solid rgb(0, 191, 255);
+   color:black;
+}
+.li h2{
+    text-align: center;
+}
+.bi h2{
+    text-align: center;
+}
+.hellos{
+   color:black;
+   
+   text-align: center;
+    padding-right:38%;
+
+    padding-top:130px;
+   
+    
+}
+.ci h2{
+    text-align: center;
+}
+.features{
+    position:absolute;
+    top:850px;
+   padding-left:38% ;
+    color:rgb(0, 0, 0);
+}
+
+
+#bt1{
+    background-color: rgb(5, 58, 41);
+    width:100%;
+    height: 10%;
+    color:white;
+    
+}
+#book{
+    width:100%;
+    height: 120%;
+    padding-top:134px;
+    transition: 0.4s;
+}
+#book:hover{
+    background-color: white;
+    border-color: 1px solid green;
+}
+.view{
+    padding-left:180%;
+    height:50px;
+    width:100px;
+
+}
+.test{
+    display:grid;
+    gap:5rem;
+    grid-template-columns: auto auto;
+ 
+    
+    top:1900px;
+    position:absolute;
+}
+#div1{
+    border:1px solid  rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    height:500px;
+    width:600px;
+   
+}
+
+#div2{
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    height:500px;
+    width:600px;
+}
+#img{
+    height:260px;
+    width:300px;
+
+}
+#view{
+    border:2px solid  rgb(0, 0, 0);
+}
+#exp{
+    position:absolute;
+   padding-top:1500px;
+   padding-left:37%;
+}

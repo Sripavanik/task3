@@ -1,0 +1,21 @@
+form{
+    padding-top:20px;
+    color:rgb(255, 255, 255);
+}
+input{
+    width:270px;
+    padding:10px;
+}
+p{
+    position:relative;
+    padding-top:none;
+    justify-content: center;
+    padding-left:176%;
+    color:rgb(255, 255, 255);
+}
+#send{
+    background-color: rgb(0, 84, 46);
+    color:white;
+    width:50%;
+    height:20%;
+}
